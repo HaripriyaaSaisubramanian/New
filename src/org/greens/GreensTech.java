@@ -8,8 +8,13 @@ System.out.println("Classes starts at 8 am");
 	
 	public void tester1() {
 		System.out.println("created new method");
+	
 
 	}
+	public void kamai() {
+		System.out.println("kamai");
+
+}
 	public static void main(String[] args) {
 		GreensTech g=new GreensTech();
 		g.Course();
